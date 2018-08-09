@@ -1,8 +1,7 @@
 
 ``` Test Excercise OutPut ```
 ``` ```
-``` Print Sort by Values ```
+``` Print Sort by Value ```
 ``` ```
 ![picture](img/TestExcercise.JPG)
-"# TestExcercise" 
-"# TestExcercise" 
+
